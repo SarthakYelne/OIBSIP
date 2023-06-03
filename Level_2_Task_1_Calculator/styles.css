@@ -1,0 +1,23 @@
+button{
+    width: 100px;
+    height: 60px;
+    font-size: 30px;
+    border-radius: 20px;
+    margin: 6px;
+    background-color: rgba(244, 243, 241, 0.689);
+    border-style: inset;
+    text-align: center;
+}
+
+#output-screen {
+    margin-left: 400px;
+    margin-top: 15px;
+    border-radius: 20px;
+    background-color: rgba(247, 174, 39, 0.851)2, 133, 4;
+}
+
+h1 {
+    font-size:60px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
