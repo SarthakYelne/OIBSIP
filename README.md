@@ -1,4 +1,5 @@
-# Three Tasks Repo : 
+# Three Tasks Repository : 
+### Web Development done through concepts of HTML, CSS, Javascript.
 ## 1. Calculator Application :
 ##### ![image](https://github.com/SarthakYelne/OIBSIP/assets/89499814/0927cd53-9e59-4f3f-abae-138094801cc7)
 ## 2. Tribute Web Page :
