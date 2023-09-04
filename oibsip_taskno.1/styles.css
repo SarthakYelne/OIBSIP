@@ -1,10 +1,10 @@
 button{
     width: 100px;
-    height: 60px;
+    height: 70px;
     font-size: 30px;
     border-radius: 20px;
     margin: 6px;
-    background-color: rgba(244, 243, 241, 0.689);
+    background-color: #f8feffbf;
     border-style: inset;
     text-align: center;
 }
@@ -13,7 +13,7 @@ button{
     margin-left: 400px;
     margin-top: 15px;
     border-radius: 20px;
-    background-color: rgba(247, 174, 39, 0.851)2, 133, 4;
+    background-color: rgba(225, 231, 244, 0.851)2, 133, 4;
 }
 
 h1 {

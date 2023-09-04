@@ -29,7 +29,7 @@ img {
     font-size: 55px;
     font-family: 'Times New Roman', Times, serif;
     margin-left: 40px;
-    color: #590fa2e5;
+    color: #d91c1cbc;
     margin-top: 40px;
     margin-bottom: 1px;
     text-align: center;
@@ -57,7 +57,7 @@ p{
     body{
         margin: 0;
         padding: 0;
-        background-color:rgb(240, 159, 53);
+        background-color:rgba(53, 73, 240, 0.35);
         font-family: arial
     }
     
@@ -97,7 +97,7 @@ p{
         position: relative;
         padding: 12px 20px;
         background:rgba(255, 255, 255, 0.3);
-        color:#fff;
+        color:#821f1f;
         border-radius: 10px;
         line-height: 20px;
         width: 35%
