@@ -36,7 +36,7 @@ img {
 }
 
 body{
-    background-color: antiquewhite;
+    background-color: rgb(250, 169, 63);
 }
 
 h3{
@@ -57,7 +57,7 @@ p{
     body{
         margin: 0;
         padding: 0;
-        background-color:rgba(53, 73, 240, 0.35);
+        background-color:rgba(231, 243, 102, 0.35);
         font-family: arial
     }
     
@@ -86,7 +86,7 @@ p{
     
         width: 0;
         height: 100%;
-        border:1px dashed #fff;
+        border:1px dashed #ff5757;
         position: absolute;
         top:0;
         left:30px
@@ -109,7 +109,7 @@ p{
        
         width: 0;
         height: 100%;
-        border:1px solid #fff;
+        border:1px solid #101010;
         position: absolute;
         top:0;
         left:-30px
@@ -150,7 +150,7 @@ p{
     .box .time span{
         position: absolute;
         left: -100px;
-        color:#fff;
+        color:#1b1b1b;
         font-size:80%;
         font-weight: bold;
     }
